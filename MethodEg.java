@@ -10,7 +10,9 @@
 		System.out.println("inside disp");
 	}
 
-	
+	public void disp1() {
+		System.out.println("inside disp");
+	}
 	public static void main(String[] args) {
 		System.out.println("inside main");
 		display();
